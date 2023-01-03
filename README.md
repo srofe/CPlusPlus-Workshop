@@ -53,3 +53,11 @@ Finally, an Activity is presented for the reader to write their own program whic
 * Have a user enter their name and age.
 * Use macros to define age brackets to group people.
 * Print the age group which the user belongs to.
+
+## Control Flow
+
+This chapter provides examples of `if/else` statements, `switch/case` statements as well as `while`, `do while`, `for`
+range-based loops and `break/contine` statements.
+
+The first exercise shows how `if/else` blocks can be used to make decisions by informing the user if a number is greater
+than or less than 10.

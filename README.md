@@ -64,3 +64,5 @@ number is greater than or less than 10.
 
 Exercise 6 provides an example of a simple menu program which prompts the user with a list of items, and when an item
 is selected it reports the cost of that item. 
+
+Exercise 7 provides the same menu program using `switch/case` instead of `if/else`.

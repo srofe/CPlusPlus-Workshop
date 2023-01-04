@@ -4,3 +4,4 @@ project(Chapter02)
 
 add_subdirectory(Exercise05)
 add_subdirectory(Exercise06)
+add_subdirectory(Exercise07)

@@ -59,5 +59,8 @@ Finally, an Activity is presented for the reader to write their own program whic
 This chapter provides examples of `if/else` statements, `switch/case` statements as well as `while`, `do while`, `for`
 range-based loops and `break/contine` statements.
 
-The first exercise shows how `if/else` blocks can be used to make decisions by informing the user if a number is greater
-than or less than 10.
+The first exercise (Exercise 5) shows how `if/else` blocks can be used to make decisions by informing the user if a
+number is greater than or less than 10.
+
+Exercise 6 provides an example of a simple menu program which prompts the user with a list of items, and when an item
+is selected it reports the cost of that item. 

@@ -66,3 +66,6 @@ Exercise 6 provides an example of a simple menu program which prompts the user w
 is selected it reports the cost of that item. 
 
 Exercise 7 provides the same menu program using `switch/case` instead of `if/else`.
+
+Exercise 8 extends the menu program using a `while` loop to allow the user to select options indefinitely. Exercise 9
+provides and example of a simple `do while` loop, then exercise 10 provides an example of a `for` loop.

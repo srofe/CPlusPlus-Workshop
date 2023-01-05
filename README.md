@@ -72,3 +72,5 @@ provides and example of a simple `while` and`do while` loops, then exercise 10 p
 
 Exercise 11 uses two loops to prompt for number, then outputs that number of randomly generated integers. If the user
 enters a value of `0`, the program stops.
+
+Exercise 12 uses `break` and `continue` statements to improve the efficiency of a loop.

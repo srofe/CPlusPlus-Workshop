@@ -32,14 +32,12 @@ int main() {
             getline(std::cin, input);
             int guess = std::stoi(input);
 
-            if (guess < randomNumber) {
-                std::cout << "Your guess was too low. You have " << guessCount - i - 1 << " guesses remaining.\n";
-            } else if (guess > randomNumber) {
-                std::cout << "Your guess was too high. You have " << guessCount - i - 1 << " guesses remaining.\n";
-            } else {
+            if (guess == randomNumber) {
                 std::cout << "Well done you guessed the number correctly: " << guess << std::endl;
                 break;
             }
+            std::cout << "Your guess was too " << (guess < randomNumber ? "low. " : "high. ");
+            std::cout << "You have " << guessCount - i - 1 << " guesses remaining.\n";
         }
 
         std::cout << "Enter 0 to exit, or any number to play again: ";

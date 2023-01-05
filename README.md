@@ -69,3 +69,6 @@ Exercise 7 provides the same menu program using `switch/case` instead of `if/els
 
 Exercise 8 extends the menu program using a `while` loop to allow the user to select options indefinitely. Exercise 9
 provides and example of a simple `while` and`do while` loops, then exercise 10 provides an example of a `for` loop.
+
+Exercise 11 uses two loops to prompt for number, then outputs that number of randomly generated integers. If the user
+enters a value of `0`, the program stops.

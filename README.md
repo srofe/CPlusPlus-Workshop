@@ -74,3 +74,14 @@ Exercise 11 uses two loops to prompt for number, then outputs that number of ran
 enters a value of `0`, the program stops.
 
 Exercise 12 uses `break` and `continue` statements to improve the efficiency of a loop.
+
+Activity 2 provides the reader with a task to write a guessing game program which will:
+
+* Prompt the user to enter a number of guesses to attempt, along with the minimum and maximum to set the range of
+  values to generate a random number to guess.
+* Generate a random number within the ranges entered.
+* Prompt the user to enter a guess for the generated number.
+* Inform the user if the guess is too low or too high, and how may guesses are remaining.
+* If they guess the correct number, congratulate them and end the round.
+* If they do not guess the correct number, the round ends.
+* After each round of the game, prompt the user to enter `0` to quit, or any number to continue with another round.
